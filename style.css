@@ -1,0 +1,8 @@
+.italian-flag-border {
+    border-image: linear-gradient(to right, #1E6B38 33%, #FDF8F0 33%, #FDF8F0 66%, #C82323 66%) 1;
+}
+
+img#img {
+    border-radius: 50%;
+    width: 100px;
+}
